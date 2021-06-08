@@ -3,9 +3,9 @@ package com.epam.izh.rd.online.service;
 public class SimpleMathService implements MathService {
 
     /**
-     * Метод возвращает 0, если value1 = value2.
-     * Метод возвращает -1, если value1 < value2.
-     * Метод возвращает 1, если value1 > value2.
+     Метод возвращает 0, если value1 = value2.
+     Метод возвращает -1, если value1 < value2.
+     Метод возвращает 1, если value1 > value2.
      *
      * Например для (-1, -1) метод должен вернуть 0;
      * Например для (-3, -1) метод должен вернуть -1;
